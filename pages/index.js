@@ -4,7 +4,7 @@ import Widget from '../src/components/Widget';
 import QuizLogo from '../src/components/QuizLogo';
 import QuizBackground from '../src/components/QuizBackground';
 import Footer from '../src/components/Footer';
-import GitHubCorner from '../src/components/GItHubCorner';
+import GitHubCorner from '../src/components/GitHubCorner';
 
 // const BackgroundImage = styled.div`
 //   background-image: url(${db.bg});
