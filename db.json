@@ -4,36 +4,47 @@
   "description": "Teste seus conhecimentos sobre Harry Potter e descubra quais filmes você precisa rever.",
   "questions": [
     {
-      "image": "https://media.giphy.com/media/j5P0DQIOf4PonLi55G/giphy.gif",
-      "title": "Qual a diferença entre = , == e === ?",
+      "image": "http://4.bp.blogspot.com/--q44Ps8V70I/U5SBmEQQNYI/AAAAAAAAFUM/jdabd8PBl1o/s1600/Order_of_Phoenix_-_Patronus.gif",
+      "title": "Quem viu Duda sendo dementado e Harry enfrentando os dementadores?",
       "description": "Pergunta fácil em!",
+      "answer": 3,
+      "alternatives": ["Tia Guida", "Petúnia Dursley", "Cornélio Fudge", "Sra. Figg"]
+    },
+    {
+      "image": "https://38.media.tumblr.com/a7737f43c67cc8382f90c18030093985/tumblr_nq1wavkuBR1sfmnojo1_500.gif",
+      "title": "Por que Harry não estava recebendo cartas de seus amigos?",
+      "description": "E agora? Você sabe?",
       "answer": 1,
       "alternatives": [
-        "São a mesma coisa",
-        "O = significa atribuição de valor. Já == verifica a igualdade do valor, enquanto === verifica valor e tipo de variável."
+        "Porque eles não se importavam muito com Harry e não mandavam cartas.",
+        "Porque Dobby estava interceptando-as para tentar convencer Harry a não voltar à Hogwarts.",
+        "Porque eles estavam mandando-as para o endereço errado.",
+        "Porque os Dursley estavam interceptando-as porque tinham medo de magia."
       ]
     },
     {
-      "image": "https://media.giphy.com/media/Ie2Hs3A0uJRtK/giphy.gif",
-      "title": "Que tipos de dados são suportados em JavaScript?",
-      "description": "E agora? Você sabe?",
+      "image": "https://pa1.narvii.com/6281/b9ef2e6c55560c30dccace617048620111aaf56d_hq.gif",
+      "title": "Qual aluno Moody transfigurou em um animal e qual foi o animal?",
       "answer": 0,
       "alternatives": [
-        "Number, String, Undefined, Null e Bool.",
-        "Int, String, Undefined, Null e Bool."
+        "Draco Malfoy - doninha",
+        "Vitor Krum - veado",
+        "Hermione Granger - doninha",
+        "Harry Potter - veado",
+        "Draco Malfoy - mosquito"
       ]
     },
     {
-      "image": "https://media.giphy.com/media/iI4vhciiVh2b3j9sgo/giphy.gif",
-      "title": "Qual a diferença de window e global?",
+      "image": "https://pm1.narvii.com/6293/3aa74271701dd92bb9d99bcb0c01e93787b225a0_hq.jpg",
+      "title": "De quem é a casa que está sendo utilizada como sede da Ordem da Fênix?",
       "answer": 1,
-      "alternatives": ["São a mesma coisa", "window é o escopo global no browser, e global no node"]
+      "alternatives": ["Remo Lupin", "Sirius Black", "Alvo Dumbledore", "Severus Snape"]
     },
     {
-      "image": "https://media.giphy.com/media/iI4vhciiVh2b3j9sgo/giphy.gif",
-      "title": "Qual a forma antiga de trabalhar com AJAX na Web?",
-      "answer": 1,
-      "alternatives": ["JSONHttpRequest", "XMLHttpRequest", "fetch"]
+      "image": "https://blog.carvvo.com.br/wp-content/uploads/2019/05/Bruxismo.gif",
+      "title": "Que tipo de pena foi usada para fazer o núcleo da varinha de Lorde Voldemort?",
+      "answer": 2,
+      "alternatives": ["Pena de coruja", "Pena de urubu", "Pena de Fenix", "Pena de águia"]
     }
   ],
   "external": [
